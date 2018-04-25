@@ -1,4 +1,3 @@
-
 # Table-Surfer
 
 Hello Table Surfer Team,
@@ -10,6 +9,7 @@ Before you pull or clone the code from this repository, Please look at this intr
 
 Project Structure：
 ![Project Structure in SurfaceVibe paper from CMU](https://github.com/saddenlar/Table-Surfer/raw/master/Project_structure.png)
+
 Reference:
 [1] Shijia Pan，Mostafa Mirshekari. IPSN 2017, Pittsburgh, PA USA. SurfaceVibe: Vibration-Based Tap & Swipe Tracking on Ubiquitous Surfaces. 2017 ACM. 978-1-4503-4890-4/17/04. 
 
