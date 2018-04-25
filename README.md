@@ -9,7 +9,7 @@ Before you pull or clone the code from this repository, Please look at this intr
 2. By assigning tasks to each member, we mean that each team member is responsible for one functional code module. In this way, we avoid the code version conflict and prevent chaotic change on each other's code.
 
 Project Structure：
-![Project Structure in SurfaceVibe paper from CMU](https://github.com/saddenlar/Table-Surfer/raw/Project_structure.png)
+![Project Structure in SurfaceVibe paper from CMU](https://github.com/saddenlar/Table-Surfer/raw/master/Project_structure.png)
 Reference:
 [1] Shijia Pan，Mostafa Mirshekari. IPSN 2017, Pittsburgh, PA USA. SurfaceVibe: Vibration-Based Tap & Swipe Tracking on Ubiquitous Surfaces. 2017 ACM. 978-1-4503-4890-4/17/04. 
 
