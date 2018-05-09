@@ -60,7 +60,11 @@ def TDOA_input(mics_number):
     while True:
         try:
             t = input('Time difference between mic #1 and mic #'+str(i+2)+':')
-            TDOA.append(float(t))
+            if t == str(0):
+                TDOA.append(float(0.000001))
+                print('ok')
+            else:
+                TDOA.append(float(t))
             i += 1
             '''
             if pattern.match(t):
