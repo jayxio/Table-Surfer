@@ -114,7 +114,8 @@ def Localization(TDOA, sound_speed, mic_coordinations):
 
 
 def main():
-    # input needed values
+    # initialization to input needed values
+    print('Initialization...\n')
     mic_coordinations = mic_coordinations_input() # [['31', '432', '53'], ['31', '43', '53'], ['2143', '53', '53'], ['13', '42', '53']]
     sound_speed = sound_speed_input() # 340
     mics_number = len(mic_coordinations) #

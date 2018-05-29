@@ -51,7 +51,7 @@ for real_TDOA in real_TDOAs:
     disturbed_TDOA = []
     for time_difference in real_TDOA:
         # assume most of the disturbed measured TDOAs is within 10%
-        tolenrance = 0.08
+        tolenrance = 0.05
         time_difference_tolenrance = time_difference*tolenrance
         time_difference = time_difference + (random.random()*2-1)*time_difference_tolenrance
         disturbed_TDOA.append(time_difference)
